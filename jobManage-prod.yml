@@ -1,0 +1,3 @@
+server : 
+ name : prod
+ message : this is jobManage prod server
